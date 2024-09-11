@@ -1,0 +1,37 @@
+.column{
+	float: left;
+	width: 19vw;
+}
+nav{
+}
+body{
+	color: #D05A47;
+	font: 14px 'Space Grotesk';
+	line-height: 1.5;
+	margin: 0;
+	display: unset;
+}
+article{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+a{
+	color: #D05A47;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	text-decoration-thickness: 2px;
+
+}
+img{
+	margin-bottom: 0pt;
+}
+h3{
+	padding: 0;
+	margin-top: 0;
+	margin-bottom: 2pt;
+}
+.unbold{
+	font-weight:  normal;
+}
