@@ -27,6 +27,13 @@ a:hover{
 img{
 	margin-bottom: 0pt;
 }
+img:hover{
+	border-bottom-style: solid;
+	border-color: #D05A47;
+	border-thickness: 2px;
+	padding-bottom: 8px;
+	margin-bottom: -11px;
+}
 h3{
 	padding: 0;
 	margin-top: 0;
