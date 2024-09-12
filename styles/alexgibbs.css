@@ -27,7 +27,7 @@ a:hover{
 img{
 	margin-bottom: 0pt;
 }
-img:hover{
+a img:hover{
 	border-bottom-style: solid;
 	border-color: #D05A47;
 	border-thickness: 2px;
